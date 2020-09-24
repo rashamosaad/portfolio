@@ -1,2 +1,1 @@
-# portfolio
-public repository for training
+This is my repo for my python code.
